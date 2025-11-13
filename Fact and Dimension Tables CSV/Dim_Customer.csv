@@ -1,0 +1,24 @@
+,CustomerId,Customer_Desc,Currency
+0,1000,Rocky Mountain Bikes,USD
+1,2000,Big Apple Bikes,USD
+2,3000,Philly Bikes,USD
+3,4000,Peachtree Bikes,USD
+4,5000,Beantown Bikes,USD
+5,6000,Windy City Bikes,USD
+6,7000,Furniture City Bikes,USD
+7,8000,Motown Bikes,USD
+8,9000,SoCal Bikes,USD
+9,11000,DC Bikes,USD
+10,12000,Northwest Bikes ,USD
+11,13000,Airport Bikes,EUR
+12,14000,Alster Cycling,EUR
+13,15000,Bavaria Bikes,EUR
+14,16000,Capital Bikes,EUR
+15,17000,Cruiser Bikes,EUR
+16,18000,Drahtesel,EUR
+17,19000,Fahrpott,EUR
+18,20000,Neckarrad,EUR
+19,21000,Ostseerad,EUR
+20,22000,Rädlelland,EUR
+21,23000,Red Light Bikes,EUR
+22,24000,Velodrom,EUR

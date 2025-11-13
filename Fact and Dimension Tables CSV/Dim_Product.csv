@@ -1,0 +1,30 @@
+,ProductId,ProdDescr,CatDescr,Division
+0,BOTL1000,Water Bottle,Accessoire,AS
+1,CAGE1000,Water Bottle Cage,Accessoire,AS
+2,CITY1000,City Max,Trend Bike,BI
+3,DXRD1000,Road Bike Alu Shimano,Roadbike,BI
+4,DXRD2000,Road Bike Alu SRAM,Roadbike,BI
+5,DXTR1000,Deluxe Touring Bike-Black,Touring Bike,BI
+6,DXTR2000,Deluxe Touring Bike-Silver,Touring Bike,BI
+7,DXTR3000,Deluxe Touring Bike-Red,Touring Bike,BI
+8,ELBK1000,E-Bike Tailwind,E Bike,BI
+9,EPAD1000,Elbow Pads,Accessoire,AS
+10,FAID1000,First Aid Kit,Accessoire,AS
+11,FXGR1000,Edel Fixie,Trend Bike,BI
+12,HVBD1000,Hoverboard,E Bike,BI
+13,KPAD1000,Knee Pads,Accessoire,AS
+14,OHMT1000,Off Road Helmet,Accessoire,AS
+15,ORHT1000,Men's Off Road Bike Hard Tail Shimano,Offroad Bike,BI
+16,ORHT2000,Men's Off Road Bike Hard Tail SRAM,Offroad Bike,BI
+17,ORMN1000,Men's Off Road Bike Fully,Offroad Bike,BI
+18,ORWN1000,Women's Off Road Bike Fully,Offroad Bike,BI
+19,PRRD1000,Road Bike Carbon Shimano,Roadbike,BI
+20,PRRD2000,Road Bike Carbon SRAM,Roadbike,BI
+21,PRRD3000,Road Bike Carbon Campagnolo,Roadbike,BI
+22,PRTR1000,Professional Touring Bike-Black,Touring Bike,BI
+23,PRTR2000,Professional Touring Bike-Silver,Touring Bike,BI
+24,PRTR3000,Professional Touring Bike-Red,Touring Bike,BI
+25,PUMP1000,Air Pump,Accessoire,AS
+26,RHMT1000,Road Helmet,Accessoire,AS
+27,RKIT1000,Repair Kit,Accessoire,AS
+28,SHRT1000,T-shirt,Accessoire,AS
